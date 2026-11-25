@@ -1,4 +1,4 @@
-"""Sem Bridge: cada classe mistura a estrutura do documento com a sintaxe do formato."""
+'''Toy sem bridge'''
 import sys
 
 
